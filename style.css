@@ -1,6 +1,6 @@
 section	{
 	
-		}
+}
 
 body	{
 	background: #83A3C5;
@@ -14,24 +14,21 @@ h1	{
 	border-spacing: 10px;
 	margin: 25px 100px ;
 	text-align: center;
-
 }
 
 h2	{
 	font-family: Arial;
-	
-
 }
 
 h3	{
 	font-family: Arial;
 	text-align: center;
-	 width: 100px;
-    height: 30px;
-    text-align: center;
-    background: #C59C3A;
-    -webkit-transition: width 2s linear 1s; /* For Safari 3.1 to 6.0 */
-    transition: width 2s linear 1s;
+	width: 100px;
+	height: 30px;
+    	text-align: center;
+    	background: #C59C3A;
+    	-webkit-transition: width 2s linear 1s; 
+	transition: width 2s linear 1s;
 }
 
 p	{
@@ -46,36 +43,27 @@ p	{
 }
 
 #img1	{
-
 	display: block;
  	margin: 0 auto;
  	box-shadow: 10px 10px grey;
-
 }
 
 #img2	{
-
 	margin: 0 auto;
  	border-style: dashed; 
  	border-radius: 25px;
-
- 	
 }
 
 #img3	{
-	
  	margin: 0 auto;
  	border-style: dashed; 
  	border-radius: 25px;
- 	
-
 }
 
-ul
-{
+ul	{
 	text-align:left;
 }
 
 h3:hover {
-    width: 300px;
+    	width: 300px;
 }
